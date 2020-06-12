@@ -15,8 +15,8 @@ Imports: MASS (>= 7.3.51.5),
          doParallel (>= 1.0.15),
          penalized (>= 0.9.51), 
          pscl (>= 1.5.5),
-         graph (>= 1.66.0),
-         mvtnorm (>= 1.1.0)
+         graph (>= 1.62.0),
+         mvtnorm (>= 1.0)
 LinkingTo: Rcpp, RcppEigen
 RoxygenNote: 7.1.0
 Roxygen: list(old_usage = TRUE)
